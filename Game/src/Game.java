@@ -22,6 +22,6 @@ public class Game
         public static void playgame()
                {
                System.out.println("The board is by rows and columns.");
-               
+//               hi how ya doing
                }
 	}
